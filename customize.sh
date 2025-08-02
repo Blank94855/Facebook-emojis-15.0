@@ -1,9 +1,3 @@
-#####################################
-#     Android Emoji Changer
-#                By
-# Khun Htetz Naing (t.me/HtetzNaing)
-#####################################
-
 # Paths and configurations
 FONT_DIR="$MODPATH/system/fonts"
 MAIN_FONT_NAME='NotoColorEmoji.ttf'
